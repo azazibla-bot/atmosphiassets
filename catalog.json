@@ -1,0 +1,332 @@
+[
+  {
+    "name": "barrel",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/barrel.glb",
+    "format": "glb"
+  },
+  {
+    "name": "boat-row-large",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/boat-row-large.glb",
+    "format": "glb"
+  },
+  {
+    "name": "boat-row-small",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/boat-row-small.glb",
+    "format": "glb"
+  },
+  {
+    "name": "bottle-large",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/bottle-large.glb",
+    "format": "glb"
+  },
+  {
+    "name": "bottle",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/bottle.glb",
+    "format": "glb"
+  },
+  {
+    "name": "cannon-ball",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/cannon-ball.glb",
+    "format": "glb"
+  },
+  {
+    "name": "cannon-mobile",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/cannon-mobile.glb",
+    "format": "glb"
+  },
+  {
+    "name": "cannon",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/cannon.glb",
+    "format": "glb"
+  },
+  {
+    "name": "chest",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/chest.glb",
+    "format": "glb"
+  },
+  {
+    "name": "crate-bottles",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/crate-bottles.glb",
+    "format": "glb"
+  },
+  {
+    "name": "crate",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/crate.glb",
+    "format": "glb"
+  },
+  {
+    "name": "flag-high-pennant",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/flag-high-pennant.glb",
+    "format": "glb"
+  },
+  {
+    "name": "flag-high",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/flag-high.glb",
+    "format": "glb"
+  },
+  {
+    "name": "flag-pennant",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/flag-pennant.glb",
+    "format": "glb"
+  },
+  {
+    "name": "flag-pirate-high-pennant",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/flag-pirate-high-pennant.glb",
+    "format": "glb"
+  },
+  {
+    "name": "flag-pirate-high",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/flag-pirate-high.glb",
+    "format": "glb"
+  },
+  {
+    "name": "flag-pirate-pennant",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/flag-pirate-pennant.glb",
+    "format": "glb"
+  },
+  {
+    "name": "flag-pirate",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/flag-pirate.glb",
+    "format": "glb"
+  },
+  {
+    "name": "flag",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/flag.glb",
+    "format": "glb"
+  },
+  {
+    "name": "grass-patch",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/grass-patch.glb",
+    "format": "glb"
+  },
+  {
+    "name": "grass-plant",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/grass-plant.glb",
+    "format": "glb"
+  },
+  {
+    "name": "grass",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/grass.glb",
+    "format": "glb"
+  },
+  {
+    "name": "hole",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/hole.glb",
+    "format": "glb"
+  },
+  {
+    "name": "palm-bend",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/palm-bend.glb",
+    "format": "glb"
+  },
+  {
+    "name": "palm-detailed-bend",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/palm-detailed-bend.glb",
+    "format": "glb"
+  },
+  {
+    "name": "palm-detailed-straight",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/palm-detailed-straight.glb",
+    "format": "glb"
+  },
+  {
+    "name": "palm-straight",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/palm-straight.glb",
+    "format": "glb"
+  },
+  {
+    "name": "patch-grass-foliage",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/patch-grass-foliage.glb",
+    "format": "glb"
+  },
+  {
+    "name": "patch-grass",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/patch-grass.glb",
+    "format": "glb"
+  },
+  {
+    "name": "patch-sand-foliage",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/patch-sand-foliage.glb",
+    "format": "glb"
+  },
+  {
+    "name": "patch-sand",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/patch-sand.glb",
+    "format": "glb"
+  },
+  {
+    "name": "platform-planks",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/platform-planks.glb",
+    "format": "glb"
+  },
+  {
+    "name": "platform",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/platform.glb",
+    "format": "glb"
+  },
+  {
+    "name": "rocks-a",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/rocks-a.glb",
+    "format": "glb"
+  },
+  {
+    "name": "rocks-b",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/rocks-b.glb",
+    "format": "glb"
+  },
+  {
+    "name": "rocks-c",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/rocks-c.glb",
+    "format": "glb"
+  },
+  {
+    "name": "rocks-sand-a",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/rocks-sand-a.glb",
+    "format": "glb"
+  },
+  {
+    "name": "rocks-sand-b",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/rocks-sand-b.glb",
+    "format": "glb"
+  },
+  {
+    "name": "rocks-sand-c",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/rocks-sand-c.glb",
+    "format": "glb"
+  },
+  {
+    "name": "ship-ghost",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/ship-ghost.glb",
+    "format": "glb"
+  },
+  {
+    "name": "ship-large",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/ship-large.glb",
+    "format": "glb"
+  },
+  {
+    "name": "ship-medium",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/ship-medium.glb",
+    "format": "glb"
+  },
+  {
+    "name": "ship-pirate-large",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/ship-pirate-large.glb",
+    "format": "glb"
+  },
+  {
+    "name": "ship-pirate-medium",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/ship-pirate-medium.glb",
+    "format": "glb"
+  },
+  {
+    "name": "ship-pirate-small",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/ship-pirate-small.glb",
+    "format": "glb"
+  },
+  {
+    "name": "ship-small",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/ship-small.glb",
+    "format": "glb"
+  },
+  {
+    "name": "ship-wreck",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/ship-wreck.glb",
+    "format": "glb"
+  },
+  {
+    "name": "structure-fence-sides",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/structure-fence-sides.glb",
+    "format": "glb"
+  },
+  {
+    "name": "structure-fence",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/structure-fence.glb",
+    "format": "glb"
+  },
+  {
+    "name": "structure-platform-dock",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/structure-platform-dock.glb",
+    "format": "glb"
+  },
+  {
+    "name": "structure-platform-dock2",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/structure-platform-dock2.glb",
+    "format": "glb"
+  },
+  {
+    "name": "structure-platform-small",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/structure-platform-small.glb",
+    "format": "glb"
+  },
+  {
+    "name": "structure-platform",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/structure-platform.glb",
+    "format": "glb"
+  },
+  {
+    "name": "structure-roof",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/structure-roof.glb",
+    "format": "glb"
+  },
+  {
+    "name": "structure",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/structure.glb",
+    "format": "glb"
+  },
+  {
+    "name": "tool-paddle",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/tool-paddle.glb",
+    "format": "glb"
+  },
+  {
+    "name": "tool-shovel",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/tool-shovel.glb",
+    "format": "glb"
+  },
+  {
+    "name": "tower-base-door",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/tower-base-door.glb",
+    "format": "glb"
+  },
+  {
+    "name": "tower-base",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/tower-base.glb",
+    "format": "glb"
+  },
+  {
+    "name": "tower-complete-large",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/tower-complete-large.glb",
+    "format": "glb"
+  },
+  {
+    "name": "tower-complete-small",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/tower-complete-small.glb",
+    "format": "glb"
+  },
+  {
+    "name": "tower-middle-windows",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/tower-middle-windows.glb",
+    "format": "glb"
+  },
+  {
+    "name": "tower-middle",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/tower-middle.glb",
+    "format": "glb"
+  },
+  {
+    "name": "tower-roof",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/tower-roof.glb",
+    "format": "glb"
+  },
+  {
+    "name": "tower-top",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/tower-top.glb",
+    "format": "glb"
+  },
+  {
+    "name": "tower-watch",
+    "url": "https://azazibla-bot.github.io/atmosphiassets/tower-watch.glb",
+    "format": "glb"
+  }
+]
